@@ -26,8 +26,8 @@ callback_manager = CallbackManager([callback_handler])
 
 session = px.launch_app()
 
+#Setup Tracing for Global Handlers
 llama_index.set_global_handler("arize_phoenix")
-# Update Custom QA Template with Gaia Information
 
 
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
