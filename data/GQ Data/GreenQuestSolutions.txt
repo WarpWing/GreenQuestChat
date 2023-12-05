@@ -1,0 +1,199 @@
+A.	GreenQuest Corporate Structure
+Executive Level: 
+
+Ty Chermsirivatana - Chief Executive Officer and Chief Technical Officer at GreenQuest Solutions 
+Jake Cunniffe - Chief Operating Officer at GreenQuest Solutions
+Ryan O' Connor - Chief Marketing Officer at GreenQuest Solutions
+Luke Vance - Chief Financial Officer at GreenQuest Solutions
+Venus Bhatt - Chief Diversity Officer at GreenQuest Solutions
+
+Middle Management: Product Development Manager, Sustainability Research Manager, AI Ethics Compliance Manager, Marketing and Outreach Manager, Talent and Culture Manager, Technical Project Manager, Finance Manager
+Product Development: Lead Software Engineer, AI Model Trainer, Sustainability Integration Specialist, UI/UX Designer, Quality Assurance Engineer, Data Analyst, DevOps Engineer, Software Engineer
+Sustainability & Research: Sustainability Coordinator, Environmental Data Analyst, Research Associate
+Marketing & Outreach: Content Creator, Public Relations Specialist, Social Media Manager, Community Outreach Coordinator
+Human Resources and Culture: Talent Acquisition Specialist, Diversity and Inclusion Officer, Employee Engagement Coordinator
+Finance and Administration: Accountant, Financial Analyst, Administrative Assistant
+Operations: IT Support Specialist, Director of Operations, Director of Software Engineering, Director of Systems and Infrastructure
+Legal and Compliance: Legal Counsel, Compliance Officer
+Sales: International Director of Sales, Regional Sales Director Regional Sales Manager, Sales Associate, 
+
+
+C. GreenQuest Leadership Philosophy 
+-	What are our common values? 
+Our common values as a team are rather simple and are reflected in our conversations and our work ethic. First, it is important that each member contributes, and that their opinions are respected and heard. Every idea we hear influences our work, and the more ideas we can hear means our project becomes more well-rounded. Additionally, everyone must respect one another and their opinions so we can have discussions that are respectful and creative. Finally, we value getting work finished, but more so doing good work overall. 
+-	What leadership behaviors reflect these values?
+As the leader of our group, or Project Manager Ty leads our conversations. In our conversations our manager makes our tasks clear but makes it clear that everyone should be asking questions, and should be heard, demonstrating out common values as a team. Additionally, in Ty’s absence we find that everyone still is able to talk and do our work, despite not having our manager. 
+-	How do our leaders contribute to the success of our mission?
+Leaders are inspiring, and beyond that leaders keep us on task and push us above and beyond. Without a leader and without checkups, our assignments may not be up to our standards, and we may create things that are not on task. With a leader, and with everyone in the group helping one another, we are able to go above and beyond in our work, creating something we could not do by ourselves.
+-	What are 5 words that describe the idea leader?
+Inspiring. Caring. Inclusive. Intelligent. Experienced.
+-	How are decisions made?
+Decisions for our group are made democratically. Everyone is allowed to influence one another and share their ideas and express concerns, but when ends meet ends decisions are made by the entirety of the group. When needed, or when a decision that is of less significance, the leader of the group may make the decision, with the thoughts of the team in mind. 
+-	How do leaders grow?
+Leaders grow and are essentially made, through struggle and adversity. This is similar to how anyone may grow as a person, but for a leader it is essential to work through adversity, because with experience comes knowledge. Therefore, the more knowledge one gains the more they can help their teammates and partners, meaning they need to struggle, and help others.
+-	What does accountability look like?
+Accountability is understanding that if you, a member of the group no matter if you are a leader or not, have to be able to take the blame for missing an assignment, or not doing an assignment that is to the standard that is necessary for the group. Additionally, accountability is the members of the group letting other members know that they have not done work up to the standard, or have been slacking off. This accountability creates an environment that is fair, but also helps everyone do good work. 
+Our leadership philosophy is one that creates a safe, fair environment. We hope to have someone that pushes us to do better work, keeps everyone accountable, and holds themselves accountable.
+D.  GreenQuest Talent Management Strategy
+- Employee Structure and Compensation:
+  - Individual positions to cover a wide range of skills.
+  - Employees and Managers are paid market rate for positions.
+  - Minimum 20-30 hours/week for all team members.
+  - Manager availability is required during all working hours.
+
+- Motivational Strategies:
+  - Competitive pay for all positions.
+  - Benefits package that includes:
+    - Medical insurance.
+    - Travel insurance.
+    - Discounted auto insurance.
+    - Financial counseling.
+    - Legal assistance.
+  - Consistent and predictable work schedules.
+
+- Employee Engagement and Culture:
+  - Opportunities for professional development.
+  - Recognition programs for achievements.
+  - Transparent communication between staff and management.
+
+- Workplace Environment:
+  - Emphasis on a healthy work-life balance.
+  - Encouragement of community involvement and sustainability projects.
+
+- Commitment to Diversity and Inclusion:
+  - Equitable and inclusive hiring practices.
+  - Policies that promote inclusivity and diversity.
+
+- Retention Strategy:
+  - Defined career paths for employee growth.
+  - Regular performance and feedback check-ins.
+
+This strategy is structured to foster a high-performing and motivated team, crucial for the innovative and sustainability-focused mission of GreenQuest.
+E. GreenQuest Code of Ethics
+GreenQuest's Code of Ethics is centered around a steadfast commitment to sustainability, ensuring all operations prioritize environmental responsibility and the integration of green technology. Our approach to AI is governed by principles of transparency, and accountability, with a strong emphasis on maintaining data privacy, regularly evaluating for biases, and fostering AI literacy. We hold ourselves to the highest standards of corporate responsibility, conducting business lawfully and ethically, promoting workplace diversity and inclusivity, and engaging with stakeholders openly. Our employees are expected to uphold individual ethical standards, contribute to a respectful work environment, and embrace equal opportunity. Leadership at GreenQuest is tasked with embodying these values, ensuring ethical considerations are central to our strategic decisions. Transparency and accountability are cornerstones of our operations, with clear channels for communication and mechanisms to address misconduct. Innovation is pursued with a conscience, mindful of long-term societal and environmental impacts while respecting intellectual property. Lastly, we actively engage with our community, supporting initiatives and education that align with our ethical stance on sustainability and AI.
+
+
+A.   Persona Creation and Persona Case Studies
+Target Markets for GreenQuest:
+
+1.	Educational Institutions (Schools and Colleges): These institutions are increasingly focusing on integrating sustainability and environmental awareness into their curricula. They seek interactive, engaging methods to educate students about eco-friendly practices and raise awareness about environmental issues.
+2.	Corporate Workplaces: Companies are looking to enhance their corporate social responsibility (CSR) initiatives, particularly in sustainability. They aim to engage employees in eco-friendly practices, promote a culture of sustainability, and demonstrate their commitment to environmental stewardship.
+
+Persona 1: Educational Institution - 'Eco-Educator Max' (He’s twins with Sam)
+ 
+    Background: Max is a 35-year-old environmental science teacher at a progressive high school. He's tech-savvy and always looking for new tools to engage his students.
+    Needs and Goals: Max wants to find interactive and modern ways to teach students about sustainability. He's looking for a solution that can integrate into the school curriculum and make learning about the environment fun and interactive.
+    Challenges: Max struggles with engaging students using traditional teaching methods. He's looking for something more dynamic than textbooks that can capture the attention of his digitally native students.
+
+Persona 2: Corporate Workplace - 'Sustainability Officer Sam'
+ 
+    Background: Sam is a 40-year-old Sustainability Officer at a mid-sized tech company. He's responsible for implementing eco-friendly practices in the office and engaging employees in sustainability initiatives.
+    Needs and Goals: Sam is searching for a tool to make sustainability a part of the company culture. He needs something that can educate employees, track their participation in sustainability initiatives, and demonstrate the company’s commitment to the environment.
+    Challenges: Sam finds it difficult to encourage consistent participation in CSR activities. He needs a platform that's not only informative but also engaging and competitive to motivate employees.
+
+B.  Value Proposition with Matches
+    1. Value Proposition for Educational Institutions:
+        Case Study: Educational institutions, like schools and colleges, have a dual focus on imparting education and nurturing responsible citizens. These institutions are increasingly incorporating environmental education into their curriculum and are looking for interactive ways to engage students and staff in sustainable practices.
+        Expanded Match: GreenQuest serves as an educational tool that goes beyond traditional learning methods. It offers an interactive and engaging platform where students and staff can learn about sustainability through real-life practices. The gamified approach, with its point index system, makes learning about sustainability fun and competitive, encouraging active participation.
+        Further Details on Sustainability: This value is sustainable as it taps into the long-term educational goals of these institutions. By integrating GreenQuest into their environmental programs, schools and colleges can continuously update their sustainability practices, keep students engaged with current environmental issues, and foster a culture of eco-consciousness that extends beyond the classroom.
+
+    2. Value Proposition for Workplaces Committed to Eco-Friendly Practices:
+        Case Study: Modern workplaces are not just about business operations; they increasingly focus on corporate social responsibility, especially in terms of environmental impact. Companies are looking for innovative ways to engage their employees in sustainable practices, both to reduce their ecological footprint and to build a positive company culture around sustainability.
+        Expanded Match: GreenQuest aligns perfectly with these goals by providing a platform that integrates sustainability into daily work life. Competitive elements, like the leaderboard, encourage employees to participate in sustainable actions, not just as individuals but also as teams. This can foster a sense of community and shared responsibility towards the environment within the workplace.
+        Further Details on Sustainability: The sustainability of this proposition is rooted in its ability to evolve with a company's sustainability goals. As workplaces grow and change, GreenQuest can adapt to provide relevant and challenging sustainability goals. It also helps companies to track and showcase their commitment to the environment, which is increasingly important to stakeholders, including customers and employees.
+
+C. Competitor Summary overview
+ GreenQuest, with its innovative sustainability-focused platform, faces a competitive landscape comprising both direct and indirect competitors. Direct competitors primarily include other tech-based educational platforms and corporate sustainability engagement tools that offer similar features such as gamification and interactive learning about environmental practices. These competitors might boast established user bases within educational or corporate sectors and a broad array of resources. Indirect competitors encompass more traditional educational methods like textbooks, courses focused on environmental education, and conventional corporate social responsibility initiatives that do not leverage modern technological advancements. Despite this competition, GreenQuest provides a distinctive niche through its unique blend of a custom-trained Language Learning Model (Gaia) tailored to sustainability practices, which offers a more interactive and engaging experience than standard methods. The platform's gamification elements, including a point index system and a dynamic leaderboard, foster an engaging and competitive environment, enhancing its appeal over traditional approaches. This innovative strategy is particularly effective in capturing the attention of younger, tech-savvy audiences in educational settings and employees in modern workplaces. By integrating cutting-edge technology with engaging content delivery, GreenQuest stands out in the market. It offers a more personalized and dynamic approach to sustainability education, aligning with the growing preference for interactive learning experiences.
+
+D. Relationships (Two Services)
+    1. Automated Services:
+        Application in GreenQuest: GreenQuest can utilize Automated Services by offering a customized learning and engagement experience based on each user’s historical interactions and preferences. This approach ensures that the content and challenges presented are tailored to the individual’s learning pace and interests, thus maximizing engagement and effectiveness.
+        Profitability and Sustainability: This personalized approach leads to higher user engagement and satisfaction, which in turn can drive long-term usage and loyalty. For educational institutions and workplaces, this means a more effective and appealing sustainability program, leading to better outcomes in their environmental initiatives. High user engagement also opens opportunities for upselling additional features or content, directly impacting profitability.
+    2. Communities:
+        Application in GreenQuest: The creation of communities within the GreenQuest platform allows users from similar institutions or companies to interact, share experiences, and collaboratively overcome challenges related to sustainability. These communities can be facilitated through forums, leaderboards, and shared challenges within the platform.
+        Profitability and Sustainability: Building a community around sustainability practices encourages peer learning and support, which can enhance the user experience and deepen engagement with the platform. For GreenQuest, this means increased user retention and the potential to attract new users through word-of-mouth. Additionally, active communities provide valuable insights into user needs and preferences, enabling continuous improvement and innovation of the platform. This not only aids in maintaining current customer relationships but also in attracting new clients who see the active engagement and success of existing users.
+
+E. Marketing Plan (Note: I’m going to be honest here. This is just generic marketing stuff. May want to consider reworking the Tiered Pricing Model a little – Ty)
+1. Pricing Strategy:
+    Tiered Pricing Model: GreenQuest will adopt a tiered pricing approach to cater to different customer needs and budgets.
+        Basic Tier: Offers core features suitable for small institutions or startups.
+        Premium Tier: Includes advanced features like more extensive content libraries and personalized learning paths, ideal for larger organizations.
+        Enterprise Tier: Customizable solutions for large enterprises or educational districts.
+    Cost-plus Pricing: Base pricing on the cost of development and maintenance plus a profit margin.
+    Value-based Consideration: Adjust pricing based on the perceived value and ROI  for customers, especially for the premium and enterprise tiers.
+    Promotional Offers: Introduce limited-time discounts for early adopters and special pricing for non-profit educational institutions.
+
+2. Distribution Channels:
+    Online Platform: Primarily distribute through a dedicated online portal, ensuring easy access and updates.
+    App Integration: Develop a mobile app for easier access for users on the go.
+    Physical Presence: Minimal, focusing on a central office for operations, located in a tech hub city to attract talent and for networking purposes.
+    Partnerships: Collaborate with educational technology distributors and corporate CSR consultancy  firms to widen distribution reach.
+3. Advertising and Marketing Communication:
+    Core Marketing Message: "Transforming Sustainability Education - Engaging, Interactive, Impactful"
+    Digital Marketing:
+        Social Media Campaigns: Leverage platforms like LinkedIn, Twitter, and Facebook to target professionals and educational institutions.
+        Content Marketing: Regularly publish blogs, case studies, and how-to guides on sustainability education and GreenQuest’s impact.
+        Search Engine Marketing (SEM): Use Google Ads and SEO strategies to increase visibility.
+    Participation in Industry Events: Attend and sponsor educational and environmental conferences, webinars, and workshops. 
+    Email Marketing: Send regular newsletters with platform updates, sustainability tips, and success stories.
+    Success Stories and Testimonials: Feature user experiences and endorsements from reputable institutions and companies.
+    Free Trial and Demo: Offer a 30-day free trial for new users and live demo webinars for interested prospects.
+    Referral Programs: Implement referral incentives for existing users who bring new customers.
+    Customer Support and Engagement: Establish a robust customer support system and regularly engage with users for feedback and improvement .
+
+4. Monitoring and Evaluation:
+    Performance Metrics: Track user acquisition, engagement rates, conversion rates from trials to paid subscriptions, and customer feedback.
+    Feedback Loops: Regularly survey users and analyze feedback for continuous improvement.
+    Market Analysis: Keep an eye on market trends and competitor strategies for adaptive marketing shifts .
+
+
+
+
+GreenQuest Product Identification (Group #1: Ty, Venus, Jake, Ryan, Luke) is a sustainability-centric platform tailored to institutions such as workplaces, schools, and other establishments, aiming to enhance their sustainability efforts through an interactive and gamified approach. At its heart, GreenQuest is designed to empower, engage, and educate its users, promoting sustainable practices while fostering healthy competition. The platform works by utilizing a fine-tuned LLM trained in sustainability practices and activities around Dickinson College. By completing tasks offered by the LLM, users can compete to gain points which is shown via a Leaderboard System. People in the upper echelons of the system will then be able to win prizes depending on their placement in the leaderboard. See our Core Features below: 
+
+•	Core Features:
+o	Custom-Trained LLM: The platform harnesses the power of a custom-trained LLM (Language Learning Model). This AI-driven model seamlessly connects to a comprehensive knowledge base, encompassing a wide array of sustainable activities.
+o	Point Index System: Every sustainable action or opportunity available within an institution is assigned a unique point value. This is predicated on its environmental impact, its feasibility, and its broader benefits to the community. Thus, more significant, or challenging sustainable actions yield higher point values, motivating users to push their limits.
+o	Chat Interface: Users can effortlessly query the LLM, inquiring about potential sustainability activities, their associated point values, and deeper insights into sustainable practices. This conversation-driven approach ensures that the user experience is intuitive and enriching.
+o	Leaderboard System: To instill a sense of friendly competition and community, GreenQuest offers a dynamic leaderboard. Users can keep track of their accumulated points, monitor their rank, and compare their achievements against peers. This encourages continued participation and allows institutions to celebrate their sustainability champions.
+o	Education and Awareness: Beyond the gamification aspect, the LLM can provide detailed information about sustainability. This makes the platform a game and an educational tool, equipping users with the knowledge they need to make more informed decisions in their day-to-day lives.
+•	Implementation and Integration:
+o	Customization: Recognizing that every institution is unique, GreenQuest can be tailored to reflect specific goals, challenges, and opportunities of any given place. This ensures that the platform remains relevant and impactful regardless of where it is deployed.
+o	Website Integration: The leaderboard and chat components can be seamlessly integrated into an institution's existing website, allowing easy access, and increasing visibility among users.
+Vision Statement:
+GreenQuest is a revolution in how we approach sustainability. By utilizing gamification with genuine ecological impact, it strives to make green practices a part of institutional culture. Institutions are thus not only made aware of their potential for sustainable actions but are also motivated to act on them, driven by a mix of competition, reward, and knowledge. In a world dealing with environmental challenges, GreenQuest offers an educational opportunity, showcasing how technology and the human spirit can converge to build a greener tomorrow. 
+Mission Statement:
+"Empowering institutions to drive sustainability through engagement and knowledge, gamifying responsible behavior for a greener tomorrow." 
+Value Creation:
+1.	Awareness: By connecting institutions to a vast knowledge base of sustainable activities, we help them become more aware of the steps they can take towards eco-friendly practices.
+2.	Engagement: Through gamification, we encourage individuals to participate and adopt sustainable habits, fostering a competitive spirit for positive change.
+3.	Data-Driven Insights: Institutions can gauge their sustainability efforts and benchmark them against others, offering a continuous loop of feedback and improvement.
+4.	Interactivity: The chat component allows for an intuitive and easy-to-understand mode of communication, making information access seamless and user-friendly.
+5.	Community Building: The leaderboard not only drives competition but also fosters a sense of community amongst users, where they can share, learn, and grow together in their sustainability journey.
+
+
+GreenQuest Task Notes Schedule:
+Research and Development (R&D): 1 Month
+•	Develop the LLM model: This involves custom training a Language Learning Model specifically for sustainability-related queries.
+•	Connect LLM to the sustainability knowledge base: Ensure that the LLM has access to a detailed database of sustainability.
+•	Design the point index system: Define how sustainable actions will be assigned point values based on their environmental impact, accessibility, and community benefits.
+Platform Development: 4 Weeks
+•	Develop the chat interface for LLM interactions: Create a user-friendly interface allowing users to research sustainability activities.
+•	Design and implement the sustainability leaderboard: Develop a leaderboard that tracks users' points, ranks, and achievements, forming healthy habits.
+•	Ensure the platform's scalability and data security: Make sure the platform can handle a growing audience while protecting the users’ data and privacy.
+•	User experience and interface (UX/UI) design: Create an attractive, user-friendly interface that enhances the overall user experience.
+Testing: 1-2 Weeks
+•	Beta testing with a select group of institutions: Test the platform with a small group of users to identify any issues, viruses, or user demands.
+•	Feedback collection and necessary iterations: Gather feedback and make necessary adjustments to improve the platform's functionality.
+Marketing and Outreach: 2 Weeks
+•	Develop a marketing strategy targeting schools, workplaces, and institutions: Form a marketing plan to reach potential users and institutions interested in sustainability.
+•	Engage in partnerships and collaborations: Collaborate with organizations and institutions to promote GreenQuest and expand its user base.
+Launch: 2 Days
+•	Roll out to initial customers: Launch the platform to the first set of customers, such as schools and workplaces.
+•	Conduct webinars and training sessions: Provide professional training to institutions to ensure they can effectively implement and utilize GreenQuest.
+Post-Launch Activities: 2-3 Weeks
+•	Collect feedback from users: Gather feedback from users to identify areas for improvement, on a scheduled basis.
+•	Regularly update the knowledge base and improve the LLM's accuracy and response quality: Keep the platform up to date with the latest sustainable practices and ensure it provides accurate and helpful information.
+•	Monitor and troubleshoot any issues: Address any technical or operational issues that may arise.
+•	Organize events or challenges to keep the user base engaged and motivated: Create interactive events or challenges that encourage ongoing participation and sustainability efforts among users.
+

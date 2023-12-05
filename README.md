@@ -1,2 +1,2 @@
-# GreenQuestChat
-GreenQuest RAG System using GPT4 + Llama Index + Streamlit
+# GreenQuest Chat v2
+Sustainable LLM Intelligence

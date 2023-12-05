@@ -1,0 +1,5 @@
+streamlit==1.28.0
+llama-index==0.8.36
+arize-phoenix[experimental]
+openai
+qdrant_client
