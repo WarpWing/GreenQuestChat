@@ -1,5 +1,10 @@
-streamlit==1.28.0
-llama-index==0.8.36
+streamlit
+llama-index
 arize-phoenix[experimental]
+aiohttp 
+requests 
+tqdm 
+typing_extensions
 openai
-qdrant_client
+transformers
+optimum[exporters]
