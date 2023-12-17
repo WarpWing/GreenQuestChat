@@ -6,7 +6,7 @@ Small note that the data covered in this repository is just a small part of what
 - Center for Sustainability Education (CSE)
 - Alliance for Aquatic Resource Monitoring (ALLARM)
 - Dickinson College's Strategic Plans for Climate Change and Climate Objectives (Not Operationally Accurate Yet)
-- Living Lab Overview (The Hive, Treehouse, Handlebar, Biodiesel & Biogas Production) (Semi Operationally Accurate)
+- Living Lab Overview (The Hive, Treehouse, Handlebar, Dickinson College Organic Farm, et al) (Semi Operationally Accurate)
 # Demo
 Check out Gaia running here: https://gaia.warpwing.cloud/
 
