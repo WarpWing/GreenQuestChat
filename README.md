@@ -1,5 +1,5 @@
 # GreenQuestChat Repository
-GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth queries about Dickinson College's sustainability practices and GreenQuest Solutions business records. This system utilizes Retrieval Augmented Generation to find context in unstructured data(PDFs, Text Files). Gaia runs on GPT-4 for a base model and then uses Qdrant (Vector Search Engine) for storing documents with HuggingFace's Optimum ONNX Embeddings
+GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth queries about Dickinson College's sustainability practices and GreenQuest Solutions business records. This system utilizes LLama Index to find context in unstructured data(PDFs, Text Files) through a process called Retrieval Augmented Generation or RAG. Gaia runs on GPT-4 for a base model and then uses Qdrant (Vector Search Engine) for storing documents with HuggingFace's Optimum ONNX Embeddings. 
 # Demo
 Check out Gaia running here: https://gaia.warpwing.cloud/
 
