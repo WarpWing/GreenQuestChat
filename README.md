@@ -13,4 +13,5 @@ Check out Gaia running here: https://gaia.warpwing.cloud/
 # Example Outputs
 ![image](https://github.com/WarpWing/GreenQuestChat/assets/28925758/878bb681-7c01-450a-9cc6-c9c8d1addb52)
 ![image](https://github.com/WarpWing/GreenQuestChat/assets/28925758/ee2cccd3-4a98-467b-a773-9f8258b03fb5)
+![image](https://github.com/WarpWing/GreenQuestChat/assets/28925758/25502bbf-a117-4d4a-af0d-04e783473ae1)
 
