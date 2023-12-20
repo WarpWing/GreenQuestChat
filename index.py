@@ -9,10 +9,11 @@ from llama_index.llms import OpenAI
 from llama_index import SimpleDirectoryReader
 from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores.qdrant import QdrantVectorStore
-from llama_index.embeddings import OptimumEmbedding
+from llama_index.embeddings import VoyageEmbedding
+from qdrant_client.models import Distance, VectorParams
 from llama_index import set_global_service_context
 
-version = "1.0.5"
+version = "1.0.6"
 st.set_page_config(page_title=f"Gaia v{version}", page_icon="🌎", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets["openai_key"]
 st.title(f"Gaia v{version}")
@@ -29,11 +30,13 @@ session = px.launch_app()
 llama_index.set_global_handler("arize_phoenix")
 
 # Create Embedding Model
-OptimumEmbedding.create_and_save_optimum_model(
-    "BAAI/bge-small-en-v1.5", "./bge_onnx"
-)
+model_name = "voyage-lite-01-instruct"
 
-embed_model = OptimumEmbedding(folder_name="./bge_onnx")
+voyage_api_key = os.environ.get("VOYAGE_API_KEY", "123")
+
+embed_model = VoyageEmbedding(
+    model_name=model_name, voyage_api_key=voyage_api_key
+)
 
 
 # Update Custom QA Template with Gaia Information
