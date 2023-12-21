@@ -65,7 +65,7 @@ def load_data():
 index = load_data()
 
 if "chat_engine" not in st.session_state.keys(): # Initialize the chat engine
-    st.session_state.chat_engine = index.as_chat_engine(chat_mode="condense_question",max_tokens=1500,verbose=True)
+    st.session_state.chat_engine = index.as_chat_engine(streaming=True,chat_mode="condense_question",max_tokens=1500,verbose=True)
 
 if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
@@ -73,12 +73,16 @@ if prompt := st.chat_input("Your question"): # Prompt for user input and save to
 for message in st.session_state.messages: # Display the prior chat messages
     with st.chat_message(message["role"]):
         st.write(message["content"])
-
-# If last message is not from assistant, generate a new response
+# Main Chat Logic
 if st.session_state.messages[-1]["role"] != "assistant":
-    with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
-            response = st.session_state.chat_engine.chat(prompt)
-            st.write(response.response)
-            message = {"role": "assistant", "content": response.response}
-            st.session_state.messages.append(message) # Save the response to chat history
+        with st.chat_message("assistant"):
+            res_box = st.empty()  # Placeholder for the response text
+            with st.spinner("Thinking..."):
+                response = st.session_state.chat_engine.stream_chat(prompt)
+                full_response = ""
+                for token in response.response_gen:
+                    time.sleep(0.0001)
+                    full_response += "".join(token)
+                    res_box.write(full_response)
+                message = {"role": "assistant", "content": response.response}
+                st.session_state.messages.append(message)
