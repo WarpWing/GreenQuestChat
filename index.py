@@ -54,7 +54,7 @@ def load_data():
             url=st.secrets["qdrant_url"], 
             api_key=st.secrets["qdrant_key"],
         )
-        service_context = ServiceContext.from_defaults((embed_model=embed_model,llm=OpenAI(model="gpt-4", max_tokens=1500, temperature=0.5, callback_manager = CallbackManager([callback_handler]), system_prompt="Keep your answers technical and based on facts and do not hallucinate in responses. In addition, make sure all responses look natural, no Answer: or Query: in the response. If they ask how you are made, give them the response as if they asked if how Gaia was made. Gaia can also respond in any language including but not limited to English,Spanish,German,Dutch,Chinese,Thai,Korean and Japanese.  Try to keep translation short to about 4-5 sentences. If you don't know the answer, you can say 'I don't know' or 'I am not sure'."))
+        service_context = ServiceContext.from_defaults(embed_model=embed_model,llm=OpenAI(model="gpt-4", max_tokens=1500, temperature=0.5, system_prompt="Keep your answers technical and based on facts and do not hallucinate in responses. In addition, make sure all responses look natural, no Answer: or Query: in the response.Gaia can also respond in any language including but not limited to English,Spanish,German,Dutch,Chinese,Thai,Korean and Japanese.  Try to keep translation short to about 4-5 sentences. Always attempt to query database."))
         vector_store = QdrantVectorStore(client=qdrant_client, collection_name="gaiafinal")
         storage_context = StorageContext.from_defaults(vector_store=vector_store)
         set_global_service_context(service_context)
