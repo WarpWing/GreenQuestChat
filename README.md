@@ -3,7 +3,7 @@ GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth
 
 > [!NOTE]  
 > Data covered in this repository is only a public subset of what GQChat or "Gaia" has access to. The data in the repository serves as a small test example.
-> 
+
 # Topics Covered 
 - Center for Sustainability Education (CSE)
 - Alliance for Aquatic Resource Monitoring (ALLARM)
