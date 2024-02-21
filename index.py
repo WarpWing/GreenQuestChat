@@ -64,6 +64,7 @@ def load_data():
         )
         return index
 
+# Init store.
 index = load_data()
 
 if "chat_engine" not in st.session_state.keys(): # Initialize the chat engine
