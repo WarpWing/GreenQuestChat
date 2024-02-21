@@ -46,6 +46,7 @@ if "messages" not in st.session_state.keys(): # Initialize the chat messages his
         {"role": "assistant", "content": "Hello, I'm Gaia, ready to assist with any inquiries about Sustainability at Dickinson College. Feel free to ask me about the Center for Sustainability Education (CSE), Alliance for Aquatic Resource Monitoring (ALLARM), Dickinson's Carbon Neutrality objectives, or Strategic Sustainability Plans."
     ]
 
+# Load data, upload to Qdrant and create a Vector Store Index.
 @st.cache_resource(show_spinner=False)
 def load_data():
     with st.spinner(text=f"Loading Gaia v{version} ..."):
