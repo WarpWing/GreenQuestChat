@@ -18,7 +18,9 @@ GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth
 - [ ] Work on implementing KnowledgeGraphs instead of Vector Search Engines for more accurate queries.
 - [ ] Look into Query Routing based on Query Type. View [this](https://docs.llamaindex.ai/en/stable/examples/query_engine/RouterQueryEngine.html#) for future reference.
 - [ ] Look into testing frameworks for RAG pipelines. I would like to use [Ragas](https://docs.ragas.io/en/stable/index.html) but still evaluating metrics and working on writing proper Q/A sets for datasets. It's on the backburner
-- [ ] Figuring out how to get Gaia to recognize acronyms within the context. For example, CSE in Gaia's context should stand for "Center for Sustainability Education" but Gaia registers it as "Computer Science and Engineering". 
+- [ ] Figuring out how to get Gaia to recognize acronyms within the context. For example, CSE in Gaia's context should stand for "Center for Sustainability Education" but Gaia registers it as "Computer Science and Engineering".
+- [ ] Retest and Evaluate Embeddings and Vector Params. I probably will migrate to [SalesForce's Mistral Embeddings](https://huggingface.co/Salesforce/SFR-Embedding-Mistral) but that requires me to change the vector dimensions to 4096. This should be fine as long as I reconfigure the Qdrant Collection to accept Vectors of that size. I also would need to download the HuggingFace embeddings locally which should be fine, it just requires some testing and infrastructure changes.
+- [ ] Possibly rework the UI? It's meant to be simplistic and I have a hard limit on my OpenAI key. I'll possibly look into it.
   
 # Demo
 Check out Gaia running here: https://gaia.warpwing.cloud/
