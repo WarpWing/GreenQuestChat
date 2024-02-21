@@ -13,7 +13,7 @@ GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth
 > GPT-4 isn't perfect and still has risks of hallucinations. All listed topics are implemented but not guaranteed to be as succinct as a human response.
 
 # To Do List
-- [ ] Benchmark Mistral 8x7b vs GPT4 on Gaia Dataset. While GPT4 is better, Mistral 8x7b could be better for cost if Mistral has sufficient answering capabilities.
+- [ ] Benchmark Mistral 8x7b vs GPT4 on Gaia Dataset. While GPT4 is better, Mistral 8x7b could be better for cost if Mistral has sufficient answering capabilities. Both are Sparse MoE anyways.
 - [ ] Work on implementing KnowledgeGraphs instead of Vector Search Engines for more accurate queries.
 - [ ] Look into Query Routing based on Query Type. View [this](https://docs.llamaindex.ai/en/stable/examples/query_engine/RouterQueryEngine.html#) for future reference.
   
