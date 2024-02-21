@@ -17,6 +17,7 @@ GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth
 - [ ] Benchmark Mistral 8x7b vs GPT4 on Gaia Dataset. While GPT4 is better, Mistral 8x7b could be better for cost if Mistral has sufficient answering capabilities. Both are Sparse MoE anyways.
 - [ ] Work on implementing KnowledgeGraphs instead of Vector Search Engines for more accurate queries.
 - [ ] Look into Query Routing based on Query Type. View [this](https://docs.llamaindex.ai/en/stable/examples/query_engine/RouterQueryEngine.html#) for future reference.
+- [ ] Look into testing frameworks for RAG pipelines. I would like to use [Ragas](https://docs.ragas.io/en/stable/index.html) but still evaluating metrics and working on writing proper Q/A sets for datasets. It's on the backburner
   
 # Demo
 Check out Gaia running here: https://gaia.warpwing.cloud/
