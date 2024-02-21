@@ -2,7 +2,7 @@
 GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth queries about Dickinson College's sustainability practices and GreenQuest Solutions business records. This system utilizes LLama Index to find context in unstructured data(PDFs, Text Files) through a process called Retrieval Augmented Generation or RAG. Gaia runs on GPT-4 for a base model and then uses Qdrant (Vector Search Engine) for storing documents with VoyageAI's [Voyage Lite 1 Instruct Embeddings](https://docs.voyageai.com/embeddings/) as per top ranking performance on the [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard). At this point, Gaia is currently self-hosted on a HA Kubernetes Cluster utilizing the NGINX Ingress Gateway for traffic routing and updates through ArgoCD via webhook state. Created originally for Professor Xiaolu Wang's INBM 100 class, now serves as a side project.
 
 > [!NOTE]  
-> Data covered in this repository is only a public subset of what GQChat or "Gaia" has access to. The data in the repository serves as a small test example.
+> Data covered in this repository is only a public subset of what GQChat or "Gaia" has access to. The data in the repository serves as a small test example. It should be also be noted that some of this data is old and mentions 2023 as "the future".
 
 # Topics Covered 
 - Center for Sustainability Education (CSE)
