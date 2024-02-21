@@ -31,7 +31,7 @@ session = px.launch_app()
 llama_index.set_global_handler("arize_phoenix")
 
 # Create Embedding Model
-model_name = "voyage-lite-02-instruct"
+model_name = "voyage-2"
 
 voyage_api_key = os.environ.get("VOYAGE_API_KEY", "123")
 
