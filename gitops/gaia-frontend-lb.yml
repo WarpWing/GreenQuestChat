@@ -6,9 +6,7 @@ spec:
   type: LoadBalancer
   ports:
     - protocol: TCP
-      nodePort: 30001
       port: 8501
       targetPort: 8501
-  type: NodePort
   selector:
     app: gaia-frontend
