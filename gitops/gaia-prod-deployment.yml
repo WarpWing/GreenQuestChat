@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: prospectus-frontend
-        image: 172.17.0.2:5000/warpwing/gaia:latest
+        image: warpwing/gaia:latest
         ports:
         - containerPort: 8501
