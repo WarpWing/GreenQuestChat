@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: gaia-frontend-lb
+spec:
+  type: LoadBalancer
+  ports:
+    - protocol: TCP
+      port: 8501
+      targetPort: 8501
+  selector:
+    app: gaia-frontend
