@@ -14,7 +14,7 @@ from llama_index.embeddings import VoyageEmbedding
 from qdrant_client.models import Distance, VectorParams
 from llama_index import set_global_service_context
 
-version = "1.0.6"
+version = "1.0.8"
 st.set_page_config(page_title=f"Gaia v{version}", page_icon="🌎", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets["openai_key"]
 st.title(f"Gaia v{version}")
