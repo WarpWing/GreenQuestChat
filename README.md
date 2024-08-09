@@ -4,7 +4,7 @@ GreenQuestChat or "Gaia" is a RAG System Agent that allows users to ask in-depth
 You can checkout the demo here: https://gaia.warpwing.cloud/
 
 > [!NOTE]  
-> Data covered in this repository is only a public subset of what GQChat or "Gaia" has access to. The data in the repository serves as a small test example. It should be also be noted that some of this data is old and mentions 2023 as "the future".
+> Data covered in this repository is only a public subset of what GQChat or "Gaia" has access to. The data in the repository serves as a small test example. It should be also be noted that some of this data is old and may not be updated for Fall 2024.
 
 # Topics Covered 
 - Center for Sustainability Education (CSE)
