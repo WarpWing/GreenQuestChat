@@ -16,7 +16,7 @@ You can checkout the demo here: https://gaia.warpwing.cloud/
 > GPT-4 isn't perfect and still has risks of hallucinations. All listed topics are implemented but not guaranteed to be as succinct as a human response.
 
 # To Do List 
-- [ ] Benchmark Mistral 8x7b vs GPT4 on Gaia Dataset. While GPT4 is better, Mistral 8x7b could be better for cost if Mistral has sufficient answering capabilities. Both are Sparse MoE anyways.
+- [ ] Benchmark Mistral 8x7b vs GPT4 on Gaia Dataset. While GPT4 is better, Mistral 8x7b could be better for cost if Mistral has sufficient answering capabilities. 
 - [ ] Work on implementing KnowledgeGraphs instead of Vector Search Engines for more accurate queries.
 - [ ] Look into Query Routing based on Query Type. View [this](https://docs.llamaindex.ai/en/stable/examples/query_engine/RouterQueryEngine.html#) for future reference.
 - [ ] Look into testing frameworks for RAG pipelines. I would like to use [Ragas](https://docs.ragas.io/en/stable/index.html) but still evaluating metrics and working on writing proper Q/A sets for datasets. It's on the backburner
